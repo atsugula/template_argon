@@ -11,4 +11,4 @@ Autenticación Incorporada: La autenticación de usuarios viene incorporada, per
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=atsugula/FinanzasAtsu&type=Timeline)](https://star-history.com/#atsugula/FinanzasAtsu&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=atsugula/template_argon&type=Timeline)](https://star-history.com/#atsugula/template_argon&Timeline)
